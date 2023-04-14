@@ -1,0 +1,44 @@
+* {
+    margin: 2px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.table1 {
+    float: right;
+    margin-top: 0;
+    padding: 0;
+}
+
+table {
+    margin-top: 15px;
+    padding-top: 5px;
+    float: left;
+}
+
+td,
+th {
+    border: 1px solid black;
+    padding: 2px;
+    width: 250px;
+    font-size: 15px;
+}
+
+.box {
+    width: 1250px;
+    height: 300px;
+    border: 1px solid black;
+    margin: auto;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul>li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}

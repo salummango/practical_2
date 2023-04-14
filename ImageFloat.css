@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 1200px;
+    border: 1px solid black;
+    height: 300px;
+}
+
+img {
+    float: right;
+}
